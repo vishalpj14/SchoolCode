@@ -16,7 +16,7 @@ public class SeriesV2 {
             } else {
                 s = s - Math.pow(a, i);
             }
-            System.out.println("The sum of series =" + s);
+            System.out.println("The sum of series ="+s);
         }
     }
 }
